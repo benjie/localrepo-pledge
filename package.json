@@ -1,0 +1,21 @@
+{
+  "name": "@localrepo/pledge",
+  "version": "1.0.0",
+  "description": "Use @localrepo/* for your monorepo package names",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjie/localrepo-pledge.git"
+  },
+  "keywords": ["monorepo", "safe", "namespace", "scope", "npm"],
+  "author": "Benjie Gillam <code@benjiegillam.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benjie/localrepo-pledge/issues"
+  },
+  "homepage": "https://github.com/benjie/localrepo-pledge#readme"
+}
